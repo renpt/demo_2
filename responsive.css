@@ -1,0 +1,43 @@
+
+@media (max-width: 670px) {
+  .pic-wrapper{
+    margin-top: 50px;
+    background-image: url(image/eye2.jpg);
+}
+ header{
+  height:80px;
+ }
+
+ .header-right a{
+   font-size: 20px;
+   line-height: 80px;
+   margin-right: 10px;
+ }
+ .logo{
+   width:120px;
+   margin-left: 10px;
+   margin-top: 0;
+ }
+ .pic-wrapper p{
+   font-size: 20px
+ }
+ .pic-wrapper h1{
+   opacity: 0.7;
+  font-size: 38px;
+ }
+
+.contents{
+  display: block;
+  text-align: center;
+}
+.content p{
+display: inline-block;
+margin: 0 auto;
+padding-bottom: 20px;
+}
+.muryo a{
+  width:50%;
+  font-size: 20px;
+}
+
+}
